@@ -17,8 +17,8 @@ Both should be installed and make sure mongodb is running.
 
 #### First Method
 ```shell
-git clone https://github.com/koolkishan/chat-app-react-nodejs
-cd chat-app-react-nodejs
+git clone https://github.com/Ankit1-git/Snappy-chat-app
+cd snappy-chat-app
 ```
 Now rename env files from .env.example to .env
 ```shell
